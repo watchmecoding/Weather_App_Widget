@@ -1,1 +1,1 @@
-This is my Kotlin Weather Widget for Android
+A lightweight and responsive Android Home Screen Widget built with Kotlin. This project demonstrates how to fetch real-time weather data from external APIs, handle background updates, and provide a seamless user experience directly on the Android launcher.
